@@ -1,0 +1,10 @@
+[project]
+name = "t17-dashboard"
+version = "0.1.0"
+description = "PoE Fragment Farming Calculator"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.32.5",
+    "textual>=8.1.1",
+]
